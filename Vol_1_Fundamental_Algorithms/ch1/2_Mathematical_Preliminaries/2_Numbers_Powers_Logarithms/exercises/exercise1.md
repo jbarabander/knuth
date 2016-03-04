@@ -8,7 +8,7 @@ Proof (By contradiction):
 	</li>
 	<li>
 		<p>
-			Well then let p = r/2  then p < r/2. and we note that r is rational and 2 is rational so then p = r/2 must also be rational.
+			Well then let p = r/2  then p = r/2 < r. and we note that r is rational and 2 is rational so then p must also be rational.
 		</p>
 	</li>
 	<li>
