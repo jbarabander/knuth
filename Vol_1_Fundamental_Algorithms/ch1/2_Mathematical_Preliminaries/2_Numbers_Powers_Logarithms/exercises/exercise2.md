@@ -22,7 +22,10 @@
 	</li>
 	<li>
 		<p>
-			Then we have q = n + d<sub>1</sub>*(10<sup>-1</sup>) +...+ d<sub>k-1</sub>*(10<sup>-(k-1)</sup>) + (10<sup>-(k-1)</sup>)*(9*(10 <sup>-1</sup>) + 9*(10<sup>-2</sup>)...) 
+			Then we have:
+		</p>
+		<p>
+			q = n + d<sub>1</sub>*(10<sup>-1</sup>) +...+ d<sub>k-1</sub>*(10<sup>-(k-1)</sup>) + (10<sup>-(k-1)</sup>)*(9*(10 <sup>-1</sup>) + 9*(10<sup>-2</sup>)...) 
 		</p>
 		<p>
 			= n + d<sub>1</sub>*(10<sup>-1</sup>)+...+d<sub>k-1</sub>*(10<sup>-(k-1)</sup>) + (10<sup>-(k-1)</sup>)*(.999....)
