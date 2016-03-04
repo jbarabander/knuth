@@ -15,8 +15,14 @@
 	<li>
 		<p>
 			If that is the case then assuming that we have a number q such that
+		</p>
+		<p>
 			q = n + 0.d<sub>1</sub>d<sub>2</sub>...d<sub>k</sub>... 
+		</p>
+		<p>
 			= n + d<sub>1</sub>*(10<sup>-1</sup>) + d<sub>2</sub>*(10<sup>-2</sup>) +...+ d <sub>k</sub>*(10<sup>-k</sup>)...
+		</p>
+		<p>
 			where if  k <= t then t = 9.
 		</p>
 	</li>
