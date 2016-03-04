@@ -15,6 +15,6 @@ Proof (By contradiction):
 		But that contradicts our original assertion and thereforethere can be no smallest rational number.
 	</li>
 </ul>
-<p>Q.E.D</p>
+<p>Q.E.D.</p>
 
 
