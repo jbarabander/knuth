@@ -23,7 +23,7 @@
 			= n + d<sub>1</sub>*(10<sup>-1</sup>) + d<sub>2</sub>*(10<sup>-2</sup>) +...+ d <sub>k</sub>*(10<sup>-k</sup>)...
 		</p>
 		<p>
-			where if  k <= t then t = 9.
+			where if  k =< t then t = 9.
 		</p>
 	</li>
 	<li>
