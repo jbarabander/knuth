@@ -28,4 +28,7 @@ function log(x, digitsOfAccuracy) {
 	return logAnswer;
 }
 
-console.log(log(25, 12));
+var arguments = process.argv.slice(2);
+
+console.log(log(arguments[0], arguments[1]));
+
