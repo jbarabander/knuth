@@ -12,7 +12,7 @@ Proof (By contradiction):
 		</p>
 	</li>
 	<li>
-		But that contradicts our original assertion and thereforethere can be no smallest rational number.
+		But that contradicts our original assertion and therefore there can be no smallest rational number.
 	</li>
 </ul>
 <p>Q.E.D.</p>
