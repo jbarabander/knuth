@@ -14,7 +14,7 @@
 	</li>
 	<li>
 		<p>
-			If that is the case then assuming that we have a number q such that
+			If that is the case then assuming that we have a number q such that:
 		</p>
 		<p>
 			q = n + 0.d<sub>1</sub>d<sub>2</sub>...d<sub>k</sub>... 
