@@ -23,8 +23,8 @@
 	<li>
 		<p>
 			Then we have q = n + d<sub>1</sub>*(10<sup>-1</sup>) +...+ d<sub>k-1</sub>*(10<sup>-(k-1)</sup>) + (10<sup>-(k-1)</sup>)*(9*(10 <sup>-1</sup>) + 9*(10<sup>-2</sup>)...) 
-			= n + d<sub>1</sub>*(10<sup>-1</sup>)+...+d<sub>k-1</sub>*(10<sup>-(k-1)</sup>) + (10* <sub>-(k-1)</sub>)*(.999....)
-			= n + d<sub>1</sub>*(10<sup>-1</sup>)+...+d<sub>k-1</sub>*(10<sup>-(k-1)</sup>) + (10* <sub>-(k-1)</sub>)*(1)
+			= n + d<sub>1</sub>*(10<sup>-1</sup>)+...+d<sub>k-1</sub>*(10<sup>-(k-1)</sup>) + (10<sup>-(k-1)</sup>)*(.999....)
+			= n + d<sub>1</sub>*(10<sup>-1</sup>)+...+d<sub>k-1</sub>*(10<sup>-(k-1)</sup>) + (10<sup>-(k-1)</sup>)*(1)
 			= n + d<sub>1</sub>*(10<sup>-1</sup>)+...+(d<sub>k-1</sub> + 1)*(10<sup>-(k-1)</sup>)
 			= (n + d<sub>1</sub>*(10<sup>-1</sup>)+...+(d<sub>k-1</sub> + 1)*(10<sup>-(k-1)</sup>))*(10<sup>k - 1</sup>) / 10<sup>k - 1</sup>
 		</p>
