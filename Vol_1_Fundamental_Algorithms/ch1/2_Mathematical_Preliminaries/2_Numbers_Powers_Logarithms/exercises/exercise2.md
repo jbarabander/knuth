@@ -43,7 +43,7 @@
 			= n + d<sub>1</sub>*(10<sup>-1</sup>)+...+(d<sub>k-1</sub> + 1)*(10<sup>-(k-1)</sup>)
 		</p>
 		<p>
-			= (n + d<sub>1</sub>*(10<sup>-1</sup>)+...+(d<sub>k-1</sub> + 1)*(10<sup>-(k-1)</sup>))*(10<sup>k - 1</sup>) / 10<sup>k - 1</sup>
+			= [n + d<sub>1</sub>*(10<sup>-1</sup>)+...+(d<sub>k-1</sub> + 1)*(10<sup>-(k-1)</sup>)]*(10<sup>k - 1</sup>) / 10<sup>k - 1</sup>
 		</p>
 		<p>
 			Which we can clearly see is rational and does not have a decimal expansion.
