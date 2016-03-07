@@ -1,4 +1,4 @@
-##Question: What is (-3)<sup>-3</sup>
+##Question: What is (-3)<sup>-3</sup>?
 ##Answer: -1/27
 <ul>
 	<li>
