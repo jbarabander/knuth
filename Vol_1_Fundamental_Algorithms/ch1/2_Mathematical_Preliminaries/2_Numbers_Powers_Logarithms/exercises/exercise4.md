@@ -8,7 +8,7 @@
 	</li>
 	<li>
 		<p>
-			 = (8<sup>1/3<sup>)<sup>2</sup> 
+			 = (8<sup>1/3</sup>)<sup>2</sup> 
 		</p>
 	</li>
 	<li>
